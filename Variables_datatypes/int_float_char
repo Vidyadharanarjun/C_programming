@@ -1,9 +1,0 @@
-#include <stdio.h>
-int main(){
-    int a = 10;
-    float b = 5.5;
-    char c = 'A';
-    double d = 3.1457393;
-    printf("%d, %f, %c, %lf", a, b, c, d);
-    return 0;
-}
